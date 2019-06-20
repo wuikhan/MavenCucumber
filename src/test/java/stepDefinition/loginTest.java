@@ -20,6 +20,8 @@ public class loginTest {
 		System.out.println("This is cucumber ");
 		System.out.println("This is cucumber ");
 		System.out.println("This is cucumber ");
+		System.out.println("This is cucumber ");
+		System.out.println("This is cucumber ");
 	}
 
 }
