@@ -18,6 +18,8 @@ public class loginTest {
 	@When("^I click the login button$")
 	public void i_click_the_login_button() {
 		System.out.println("This is cucumber ");
+		System.out.println("This is cucumber ");
+		System.out.println("This is cucumber ");
 	}
 
 }
